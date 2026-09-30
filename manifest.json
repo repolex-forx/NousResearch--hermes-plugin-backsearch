@@ -35,7 +35,9 @@
           "source": "lsp",
           "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/httpx/_models.py"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/477d81446c856a39021c069a88a047e9c89fbba3/chunk-001.nq.gz",
+      "dep": "dep/477d81446c856a39021c069a88a047e9c89fbba3.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
