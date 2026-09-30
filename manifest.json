@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "hermes-plugin-backsearch",
+  "versions": [
+    {
+      "commit": "477d81446c856a39021c069a88a047e9c89fbba3",
+      "parsed_at": "2026-09-30T07:07:08.074890+00:00",
+      "tag": "main",
+      "filetree": "filetree/477d81446c856a39021c069a88a047e9c89fbba3.nq.gz",
+      "blobs": [
+        "blob/692f12e5eadf6faf839a7be9f8f47d3cfa1169f6.nq.gz",
+        "blob/6a73286fc441e803a1735dc1de2661739e23aa69.nq.gz",
+        "blob/5700b997827973cb0eb6d84a2782bb08a5872434.nq.gz",
+        "blob/beff8086e41be5069dea64642cd85b4c9c7d5d64.nq.gz",
+        "blob/c2316dacfd79dadba8956877b2aaa246b8ad6d89.nq.gz",
+        "blob/1034e3a8a5378792887d615b3c56d6bc67e1fe47.nq.gz",
+        "blob/de34220232ef73fc140adc0fd46acaec8608b569.nq.gz",
+        "blob/706d7f91a06fc67fc5ade5e17429376f1cf12b1a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
