@@ -42,10 +42,24 @@
       "repolex:graphType": "ast",
       "repolex:graphFilePath": "aggregate/ast/477d81446c856a39021c069a88a047e9c89fbba3/chunk-001.nq.gz",
       "repolex:graphFileSize": 572267
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "lsp",
+      "repolex:graphFilePath": "aggregate/lsp/477d81446c856a39021c069a88a047e9c89fbba3.nq.gz",
+      "repolex:graphFileSize": 37213
     }
   ],
-  "repolex:parseStatus": "ast_complete",
+  "repolex:parseStatus": "enrich_complete",
   "repolex:parsedAt": "2026-09-30T07:07:08.074890+00:00",
   "repolex:parserVersion": "0.1.10",
-  "git:tagName": "main"
+  "git:tagName": "main",
+  "repolex:dependencyRepo": [
+    {
+      "@id": "https://repolex.ai/r/encode/httpx",
+      "repolex:packageName": "httpx",
+      "git:hexsha": "9904684d353f8d806755918533487b78138f7c08",
+      "git:tagName": "0.9.5"
+    }
+  ]
 }

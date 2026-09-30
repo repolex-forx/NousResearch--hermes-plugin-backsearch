@@ -20,6 +20,21 @@
       ],
       "ast": [
         "aggregate/ast/477d81446c856a39021c069a88a047e9c89fbba3/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/477d81446c856a39021c069a88a047e9c89fbba3.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "httpx",
+          "ecosystem": "PYPI",
+          "version": "0.9.5",
+          "githubOrg": "encode",
+          "githubRepo": "httpx",
+          "githubCommit": "9904684d353f8d806755918533487b78138f7c08",
+          "githubTag": "0.9.5",
+          "githubUrl": "https://github.com/encode/httpx",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/httpx/_models.py"
+        }
       ]
     }
   ],
